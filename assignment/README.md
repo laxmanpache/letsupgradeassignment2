@@ -1,3 +1,7 @@
+IN this we create one array inside component like API and accept thsi array element using Props and display on screen using some csss
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
